@@ -513,3 +513,51 @@ button span{
     background-color: rgb(58,57,57);
     cursor: pointer;
 }
+#box5{
+    padding:10px 30px;
+    width:100%;
+    height:40%;
+    background-color:black;
+}
+#box5 p{
+    text-align: center;
+    margin-top: 55px;
+    color:white;
+    font-size:17px;
+}
+#box5 input{
+    margin-left:200px;
+    width:580px;
+    height:60px;
+    padding:0px 10px;
+    border-radius: 5px;
+    background-color: rgb(29, 29, 29);
+    border:1px solid rgb(104, 104, 104);
+    color:white;
+    transition:0.2s;
+    font-size:15px;
+}
+#box5 input:hover{
+    border:2px solid white;
+}
+#box5 button{
+    width:210px;
+    height:60px;
+    background-color: rgb(232, 6, 6);
+    border-radius: 5px;
+    color:white;
+    font-size:24px;
+    font-weight: 600;
+    border:2px solid rgb(232, 6, 6);
+    transition:0.2s;
+}
+#box5 button:hover{
+    background-color: rgb(202, 9, 9);
+    border:2px solid rgb(202, 9, 9);
+    cursor: pointer;
+}
+#emailbox{
+    display: flex;
+    align-items: center;
+    gap:7px;
+}

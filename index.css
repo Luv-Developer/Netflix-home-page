@@ -204,6 +204,7 @@ button span{
     transition:0.2s;
     width:210px;
     height:320px;
+    cursor: pointer;
 }
 #pic2{
     width:200px;
@@ -217,6 +218,7 @@ button span{
     transition:0.2s;
     width:210px;
     height:320px;
+    cursor: pointer;
 }
 #pic3{
     width:200px;
@@ -230,6 +232,7 @@ button span{
     transition:0.2s;
     width:210px;
     height:320px;
+    cursor: pointer;
 }
 #pic4{
     width:200px;
@@ -248,4 +251,122 @@ button span{
     margin-left:100px;
     width:500px;
     padding:0px 40px;
+}
+#reasons{
+    padding:50px 40px;
+    width:100%;
+    height:80%;
+    background-color: black;
+}
+#reasons h2{
+    margin-left:120px;
+    font-size:24px;
+    color:white;
+}
+#features{
+    padding:10px 50px;
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+#first{
+    width:250px;
+    height:320px;
+    background:linear-gradient(rgb(27, 52, 73),rgb(20, 13, 20),rgb(16, 29, 39));
+    margin-left:80px;
+    margin-top:10px;
+    text-align: center;
+    padding:20px 10px;
+    border-radius: 10px;
+}
+#first h3{
+    margin-top: 10px;
+    color:white;
+    font-weight:bold;
+}
+#first p{
+    margin-top:30px;
+    font-size:17px;
+    color:rgb(179, 178, 178);
+}
+#first img{
+    width:100px;
+    height:80px;
+    margin-top:40px;
+    border-radius:10px;
+}
+#second{
+    width:250px;
+    height:320px;
+    background:linear-gradient(rgb(27, 52, 73),rgb(20, 13, 20),rgb(16, 29, 39));
+    margin-top:10px;
+    text-align: center;
+    padding:20px 20px;
+    border-radius: 10px;
+}
+#second h3{
+    margin-top: 10px;
+    color:white;
+    font-weight:bold;
+}
+#second p{
+    margin-top:10px;
+    font-size:17px;
+    color:rgb(179, 178, 178);
+}
+#second img{
+    width:80px;
+    height:80px;
+    margin-top:20px;
+    border-radius:10px;
+}
+#third{
+    width:250px;
+    height:320px;
+    background:linear-gradient(rgb(27, 52, 73),rgb(20, 13, 20),rgb(16, 29, 39));
+    margin-top:10px;
+    text-align: center;
+    padding:20px 20px;
+    border-radius: 10px;
+}
+#third h3{
+    margin-top: 10px;
+    color:white;
+    font-weight:bold;
+}
+#third p{
+    margin-top:20px;
+    font-size:17px;
+    color:rgb(179, 178, 178);
+}
+#third img{
+    width:100px;
+    height:80px;
+    margin-top:20px;
+    border-radius:10px;
+}
+#fourth{
+    width:250px;
+    height:320px;
+    background:linear-gradient(rgb(27, 52, 73),rgb(20, 13, 20),rgb(16, 29, 39));
+    margin-top:10px;
+    text-align: center;
+    padding:20px 10px;
+    border-radius: 10px;
+}
+#fourth h3{
+    margin-top: 10px;
+    color:white;
+    font-weight:bold;
+}
+#fourth p{
+    margin-top:10px;
+    font-size:17px;
+    color:rgb(179, 178, 178);
+}
+#fourth img{
+    width:100px;
+    height:80px;
+    margin-top:10px;
+    border-radius:10px;
 }
